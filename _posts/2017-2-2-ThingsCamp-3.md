@@ -5,7 +5,7 @@ title: ThingsCamp 3
 
 ThingsCamp 3 will be our biggest yet: in addition to the main day on April 8th we'll be hosting an open learning event at St. Paul's Learning Centre on Friday April 7th from 2-5pm and #thingsdrinks on the Friday evening.
 
-Book using the form below or [directly on Eventbrite](thingscamp3.eventbrite.co.uk) to get your ticket for the main event and we'll send you more details of the extra activities. You can also add your name to our mailing list for updates on everything.
+Book using the form below or [directly on Eventbrite](thingscamp3.eventbrite.co.uk) to get your ticket for the main event and we'll send you more details of the extra activities. You can also add your name to [our mailing list](http://eepurl.com/czoUJv) for updates on everything.
 
 We work hard to make sure that ThingsCamp events are welcoming to everyone, whatever your level of experience. If you have any questions at all please send us a message through this page or talk to us on Twitter.
 
