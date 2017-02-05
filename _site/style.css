@@ -1,0 +1,404 @@
+/***************/
+/* MEYER RESET */
+/***************/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+body {
+  line-height: 1;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+blockquote, q {
+  quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/**************/
+/* BASE RULES */
+/**************/
+html {
+  font-size: 100%;
+}
+
+body {
+  background: #fff;
+  font: 1.3em/1.5 Rubik;
+  font-weight: 300;
+  color: #000;
+}
+
+.wrapper {
+  background: none;
+}
+
+.wrapper-highlight {
+  background: #D0051C;
+}
+
+body.single .wrapper-highlight {
+  background: #3cc;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 860px;
+  width: 80%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: Rubik;
+  font-weight: 300;
+  line-height: 1.7;
+  margin: 0.25em 0;
+  padding: 0;
+}
+@media screen and (max-width: 860px) {
+  h1, h2, h3, h4, h5, h6 {
+    line-height: 1.4;
+  }
+}
+
+h1 {
+  font-size: 2em;
+}
+h1 a {
+  color: inherit;
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+.latest h2 {
+  font-weight: 400;
+  font-size: 1em;
+  margin: 0;
+  color: #fff;
+}
+
+h3 {
+  font-size: 1.2em;
+  color: #fff;
+}
+
+h4 {
+  font-size: 1em;
+}
+
+p {
+  margin: 0 0 1em 0;
+}
+
+a {
+  color: #fff;
+  text-decoration: underline;
+  cursor: pointer;
+}
+a:hover, a:active {
+  text-decoration: none;
+}
+
+#main a {
+  color: #000;
+}
+
+ul, ol {
+  margin: 15px 0;
+  padding-left: 30px;
+}
+
+ul {
+  list-style-type: disc;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+ol ul, ul ol, ul ul, ol ol {
+  margin: 0;
+}
+
+ul ul, ol ul {
+  list-style-type: circle;
+}
+
+em, i {
+  font-style: italic;
+}
+
+strong, b {
+  font-weight: bold;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.date {
+  font-style: normal;
+  color: #fff;
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+/*********************/
+/* LAYOUT / SECTIONS */
+/*********************/
+.masthead {
+  margin: 0 auto;
+  padding: 2em 0 1em 0;
+  width: 80%;
+}
+
+.site-info {
+  float: left;
+}
+@media screen and (max-width: 860px) {
+  .site-info {
+    float: none;
+    display: block;
+    margin: 0 auto;
+  }
+}
+
+.site-name {
+  margin: 0;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 300;
+  font-size: 28px;
+  letter-spacing: 1px;
+}
+
+.site-description {
+  margin: -5px 0 0 0;
+  color: #666;
+  font-size: 16px;
+}
+@media screen and (max-width: 860px) {
+  .site-description {
+    margin: 3px 0;
+  }
+}
+
+nav {
+  float: right;
+  margin-top: 1em;
+  font-family: Rubik, sans-serif;
+  font-size: 0.8em;
+}
+@media screen and (max-width: 860px) {
+  nav {
+    float: none;
+    margin-top: 9px;
+    display: block;
+    font-size: 16px;
+  }
+}
+nav a {
+  margin-left: 0.5em;
+  color: #fff;
+  text-align: right;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+@media screen and (max-width: 860px) {
+  nav a {
+    margin: 0;
+  }
+}
+
+.strapline {
+  margin: 0 auto;
+  padding: 2em 0;
+  width: 80%;
+}
+
+.strapline p {
+  font-size: 2em;
+  color: #fff;
+}
+@media screen and (max-width: 860px) {
+  .strapline p {
+    font-size: 1.4em;
+  }
+}
+
+.latest {
+  border: 2px solid #fff;
+  border-radius: 50%;
+  float: right;
+  width: 12em;
+  height: 12em;
+  padding: 1.4em;
+  margin: 0 0 2em 2em;
+  transform: rotate(5deg);
+  transform-origin: center center 0;
+  text-align: center;
+}
+@media screen and (max-width: 860px) {
+  .latest {
+    border-radius: 0;
+    transform: none;
+    float: none;
+    margin: 0 0 3em 0;
+    padding: 0.5em;
+    width: auto;
+    height: auto;
+  }
+}
+
+.latest p {
+  font-size: 0.9em;
+}
+
+.participate {
+  margin: 0 auto;
+  padding: 3em 0;
+  width: 80%;
+  color: #fff;
+}
+
+.wrapper-form {
+  background: #D0051C;
+}
+
+.mailing-list {
+  margin: 0 auto;
+  padding: 2em 0;
+  width: 80%;
+  max-width: 640px;
+  color: #fff;
+}
+
+.supporters {
+  margin: 0 auto;
+  padding: 2em 0;
+  width: 80%;
+  color: #000;
+  text-align: center;
+}
+
+.supporter-logo {
+  float: left;
+  width: 25%;
+}
+@media screen and (max-width: 860px) {
+  .supporter-logo {
+    width: 50%;
+  }
+}
+
+.threecolumn {
+  padding-right: 1em;
+  width: 33.3%;
+  float: left;
+}
+@media screen and (max-width: 860px) {
+  .threecolumn {
+    padding: 0;
+    margin-bottom: 1em;
+    width: 100%;
+  }
+}
+
+#main {
+  padding: 2em 0;
+}
+
+.posts > .post {
+  padding-bottom: 2em;
+}
+
+.posts > .post:last-child {
+  padding-bottom: 1em;
+  border-bottom: none;
+}
+
+.post blockquote {
+  margin: 1.8em .8em;
+  border-left: 2px solid #fff;
+  padding: 0.1em 1em;
+  color: #666;
+  font-size: 1.2em;
+  font-style: italic;
+}
+.post .comments {
+  margin-top: 1em;
+}
+.post .read-more {
+  text-transform: uppercase;
+  font-size: 0.8em;
+  color: #000;
+}
+
+footer {
+  margin: 0 auto;
+  padding: 3em 0;
+  width: 80%;
+  color: #fff;
+}
+
+footer ul, footer li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#mc_embed_signup {
+  clear: left;
+  font: 14px Rubik,sans-serif;
+}
