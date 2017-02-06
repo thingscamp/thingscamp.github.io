@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-ThingsCamp is a shared space for building more inclusive activity around IoT. Behind it is a commitment to growing a diverse audience, exploring wider implications and encouraging creative, varied discussion.
+ThingsCamp is a series of events, a community and a set of resources designed to promote more inclusive activity around internet-connected devices, or the “Internet of Things”. Behind it is a commitment to growing a diverse audience and encouraging creative, varied discussion.
 
-We hope, through events and collaborations, to point a critical lens at connected devices, helping us see beyond the commercial and theoretical perspectives. But ThingsCamp is equally an opportunity to get close to the technology: understanding and exploring it through experimentation and making.
+We work hard to bring together anyone with an interest in what this technology means for them and events typically cover everything from introductory talks to in-depth, hands-on workshops. But whatever your level of experience and understanding you’ll be able to come along, meet new people, engage in interesting discussions and play with technology.

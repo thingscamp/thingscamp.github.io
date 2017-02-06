@@ -4,4 +4,4 @@ title: Host
 permalink: /host/
 ---
 
-If you’d like to host a ThingsCamp event then just get in touch.
+ThingsCamp is on the move. We like to visit new places to bring different perspectives to each event. If you’d like to host us in the future then just get in touch.

@@ -4,4 +4,4 @@ title: Support
 permalink: /support/
 ---
 
-You can support an individual event or our whole mission, which is to build an open resource of equipment and knowledge along with a network of people.
+We’re looking for people and organisations who share our enthusiasm for making the future of technology more inclusive. Support an individual event or our ongoing work.

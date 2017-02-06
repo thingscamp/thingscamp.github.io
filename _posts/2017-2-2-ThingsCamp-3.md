@@ -7,6 +7,6 @@ ThingsCamp 3 will be our biggest yet: in addition to the main day on April 8th w
 
 Book using the form below or [directly on Eventbrite](thingscamp3.eventbrite.co.uk) to get your ticket for the main event and we'll send you more details of the extra activities. You can also add your name to [our mailing list](http://eepurl.com/czoUJv) for updates on everything.
 
-We work hard to make sure that ThingsCamp events are welcoming to everyone, whatever your level of experience. If you have any questions at all please send us a message through this page or talk to us on Twitter.
+We work hard to make sure that ThingsCamp events are welcoming to everyone, whatever your level of experience. And if you have any questions at all please send us a message through this page or talk to us on Twitter.
 
 <div style="width:100%; text-align:left;"><iframe src="//eventbrite.co.uk/tickets-external?eid=31631783516&ref=etckt" frameborder="0" height="275" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.co.uk/">Powered by Eventbrite</a></div></div>
