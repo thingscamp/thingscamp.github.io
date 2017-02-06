@@ -6,14 +6,14 @@
 name: things.camp
 
 # Short bio or description (displayed in the header)
-description: ThingsCamp is a series of events, a community and a set of resources designed to promote more inclusive activity around internet-connected devices, or the “Internet of Things”. Behind it is a commitment to growing a diverse audience and encouraging creative, varied discussion.
+description: ThingsCamp is a series of events, a community and a set of resources designed to promote more inclusive activity around internet-connected devices, or the “Internet of Things”.
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: thingscamp
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-91476210-1
 
 # Your website URL
 # Used for Sitemap.xml and your RSS feed
