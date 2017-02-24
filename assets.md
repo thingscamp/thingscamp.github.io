@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About
+title: Assets
 permalink: /assets/
 ---
 
-[Logos (zip file)](http://things.camp/downloads/ThingsCampIdentity.zip)
+##Identity
+A downloadable set of zipped [logos and icons](http://things.camp/downloads/ThingsCampIdentity.zip) for use on the web and in print.
