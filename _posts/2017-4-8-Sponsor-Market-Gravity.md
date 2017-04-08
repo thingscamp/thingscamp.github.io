@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sponsor: Market Gravity
+title: Market Gravity
 ---
 
 As a top level sponsor [Market Gravity](http://www.marketgravity.com/) has made it possible to provide a wonderful venue and catering along with some vital materials for our third ThingsCamp.

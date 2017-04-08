@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sponsor: UWE
+title: UWE
 ---
 
 Everyone at ThingsCamp would like to thank [UWE](http://www.uwe.ac.uk/) for their support; as a top level sponsor they’re really helping to make ThingsCamp happen. We’re grateful for their specific support which has enabled us to provide catering, venue and marketing for the event, and for the in-kind contribution of some staff and students whose enthusiasm has been invaluable to initiating the event in Bristol.
