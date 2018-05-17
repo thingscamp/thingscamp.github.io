@@ -19,8 +19,8 @@ html {
 
 body {
     background: #fff;
-    font: 1.3em/1.6 Rubik;
-    font-weight: 400;
+    font: 1.3em/1.6 Karla;
+    font-weight: 100;
     color: #000;
 }
 h1, h2, h3, h4 {
@@ -124,9 +124,6 @@ img {
     background: #D0051C;
     font-weight: 300;
 }
-body.single .wrapper-highlight {
-    background: #3cc;
-}
 .container {
     margin: 0 auto;
     max-width: 860px;
@@ -202,7 +199,7 @@ nav {
     width: 80%;
 }
 .strapline p {
-    font-size: 2em;
+    font-size: 2.4em;
     color: #fff;
     
     @include mobile {
